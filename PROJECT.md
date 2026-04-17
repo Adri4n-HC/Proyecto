@@ -23,7 +23,7 @@ Para la primera entrega, el sistema debe cumplir con:
 | Componente | Cantidad | Función |
 | :--- | :---: | :--- |
 | Servomotor MG995 | 4 | Movimiento de carga pesada (Base, hombro, codo y garra). |
-| Joystick KY-023 | 2 | Interfaz de usuario. |
+| Joystick KY-023 | 2 | Control de 4 ejes (Base, Hombro, Codo y Pinza). |
 | Estructura echa de acrilico | 1 | Chasis físico de la garra. |
 
 ## 🔗 Enlaces Relacionados
