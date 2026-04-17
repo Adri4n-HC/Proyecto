@@ -24,10 +24,10 @@ Siguiendo el estándar del proyecto, el repositorio se organiza de la siguiente 
 
 ##  Requisitos Previos
 Antes de empezar, asegúrate de tener:
-1. Microcontrolador (ej: Arduino Uno / Nano).
-2. [X] Servomotores (ej: MG996R o SG90).
+1. Microcontrolador Arduino UNO.
+2. Servomotores 4 MG995.
 3. 2 Joysticks analógicos.
-4. Fuente de alimentación externa (recomendado 5V-6V).
+4. Fuente de alimentación externa de 6v a 15A.
 
 ---
 
