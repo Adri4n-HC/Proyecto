@@ -35,7 +35,6 @@ void loop() {
   sGarra.write(targetGarra);
 
   delay(20); // Pequeña pausa para estabilizar los servos
-}
 
 // [Luis Daniel Zavala Cervantes]
   // Mostrar estado en el monitor serial para depuración
