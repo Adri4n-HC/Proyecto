@@ -26,4 +26,13 @@ void loop() {
   int targetHombro = map(valHombro, 0, 1023, 45, 135); // Restringido para proteger estructura
   int targetCodo = map(valCodo, 0, 1023, 0, 180);
   int targetGarra = map(valGarra, 0, 1023, 10, 90);   // Restringido para la pinza
+  @⁨Efimera~⁩ tu pon esto
+// [Juan González Dávid]
+  // Envío de señales a los servomotores MG995
+  sBase.write(targetBase);
+  sHombro.write(targetHombro);
+  sCodo.write(targetCodo);
+  sGarra.write(targetGarra);
+
+  delay(20); // Pequeña pausa para estabilizar los servos
 }
