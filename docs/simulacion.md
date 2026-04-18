@@ -23,3 +23,4 @@ Se realizó la validación del esquema de conexiones utilizando un simulador int
 3. Distribución de Tierra: Se confirmó la conexión de una tierra común (GND) para todos los componentes.
 
 <img width="1080" height="1014" alt="image" src="https://github.com/user-attachments/assets/56bac7e0-4487-4ff7-9f68-a08c240762f3" />
+
