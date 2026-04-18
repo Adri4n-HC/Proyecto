@@ -3,7 +3,7 @@
  * Fecha: Abril 2026
  * Autores: [Hernandez Castro Luis Adrian // Juan Gonzalez David // Maroto May Alejandro // Sanchez Hernandez Alan // Zavala Cervantes Luis Daniel]
  */
-
+//[Hernandez Castro Luis Adrian]
 #include <Servo.h>
 Servo sBase, sHombro, sCodo, sGarra;
 int posBase = 90, posHombro = 90, posCodo = 90, posGarra = 90;
