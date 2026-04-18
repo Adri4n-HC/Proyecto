@@ -1,5 +1,5 @@
 /* * Proyecto: Garra Robótica con Joysticks
- * Versión: 1.2.0 - Etapa 2 (Funcionalidad Básica)
+ * Versión: 1.4.0 - Etapa 2 (Funcionalidad Básica)
  * Fecha: Abril 2026
  * Autores: [Hernandez Castro Luis Adrian // Juan Gonzalez David // Maroto May Alejandro // Sanchez Hernandez Alan // Zavala Cervantes Luis Daniel]
  */
@@ -36,3 +36,11 @@ void loop() {
 
   delay(20); // Pequeña pausa para estabilizar los servos
 }
+
+// [Luis Daniel Zavala Cervantes]
+  // Mostrar estado en el monitor serial para depuración
+  Serial.print("Angulos -> B: "); Serial.print(targetBase);
+  Serial.print(" | H: "); Serial.print(targetHombro);
+  Serial.print(" | C: "); Serial.print(targetCodo);
+  Serial.print(" | G: "); Serial.println(targetGarra);
+} // Fin del Loop
