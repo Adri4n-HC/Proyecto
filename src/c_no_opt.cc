@@ -1,3 +1,8 @@
+/* * Proyecto: Garra Robótica con Joysticks
+ * Versión: 1.0.0 - Etapa 2 (Funcionalidad Básica)
+ * Fecha: Abril 2026
+ * Autores: [Hernandez Castro Luis Adrian//Juan Gonzalez David//Maroto May Alejandro//Sanchez Hernandez Alan//Zavala Cervantes Luis Daniel]
+ */
 // Cdigo para brazo robotico //
 //[Hernandez Castro Luis Adrian]
 #include <Servo.h>
