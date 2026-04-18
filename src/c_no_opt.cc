@@ -13,3 +13,11 @@ void setup() {
   sBase.attach(9); sHombro.attach(10); sCodo.attach(11); sGarra.attach(12);
   // Posición inicial de seguridad
 }
+// [Maroto May Alejandro]
+void loop() {
+  // Lectura de los Joysticks (Pines A0 a A3)
+  int valBase = analogRead(A0);
+  int valHombro = analogRead(A1);
+  int valCodo = analogRead(A2);
+  int valGarra = analogRead(A3)
+}
