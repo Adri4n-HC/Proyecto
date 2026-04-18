@@ -1,1 +1,8 @@
-
+Cantidad, Referencia, Componente, Proveedor 
+1, Microcontrolador, Arduino UNO , Mercado libre
+4, Servomotores, MG995 (Piñonería metálica), Mercado Libre
+2, Sensores, Joystick Analógico KY-023, Steren
+1, Alimentación, Fuente de poder regulada 6V 5A, Extraida de una pc
+1, Estructura, Chasis de garra robótica (4 DOF), Acrílico
+20, Jumpers, Cables Dupont M-M / M-H, Steren
+1, Protoboard, Tablilla de pruebas 830 puntos, Steren
